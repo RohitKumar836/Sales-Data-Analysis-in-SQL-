@@ -93,8 +93,7 @@ This project demonstrates how SQL can be used to analyze business data and gener
 
 ## Connect With Me
 
-* LinkedIn: [Add your profile link]
-* GitHub: [Add your profile link]
+* LinkedIn: www.linkedin.com/in/rohit-kumar-765a7734a
 
 ---
 
